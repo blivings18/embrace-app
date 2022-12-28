@@ -15,9 +15,9 @@ import { IonReactRouter } from '@ionic/react-router';
 import { chatbox, people, settings } from 'ionicons/icons';
 import { Redirect, Route } from 'react-router-dom';
 
-import Explore from './pages/Meet';
-import Messages from './pages/Messages';
-import Settings from './pages/Settings';
+import Explore from './pages/meet/Meet';
+import Messages from './pages/messages/Messages';
+import Settings from './pages/settings/Settings';
 
 /* Core CSS required for Ionic components to work properly */
 /* Basic CSS for apps built with Ionic */
