@@ -1,0 +1,7 @@
+{
+  "name": "embrace-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
